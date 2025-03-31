@@ -1,4 +1,4 @@
-# Corporate Default Model: Team Turquoise
+# Corporate Default Model:
 
 Predicting the probability of default
 
